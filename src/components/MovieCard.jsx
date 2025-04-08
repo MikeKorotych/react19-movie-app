@@ -9,7 +9,6 @@ const MovieCard = ({
     original_language,
     vote_count,
     overview,
-    popularity,
   },
 }) => {
   return (
